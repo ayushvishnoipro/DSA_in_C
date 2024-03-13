@@ -38,7 +38,7 @@ public:
 };
 
 int main() {
-    // Creating objects
+    // Creating objectsf
     Bird genericBird("Unknown", 5);
     Sparrow sparrow(2);
 
